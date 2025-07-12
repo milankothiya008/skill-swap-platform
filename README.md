@@ -1,5 +1,7 @@
 # Skill Swap Platform
 
+problem statement 1- skill swap platform
+
 A Flask-based web application that connects people who want to exchange skills with each other.
 
 ![Skill Swap Screenshot](static/screenshot.png) <!-- Add a screenshot later -->
